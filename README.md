@@ -18,6 +18,7 @@
 - _Must have Python 3.7 installed_
 - _Clone this with command `git clone https://github.com/Drewrwhite/dice_roll.git`_
 - _Open `dice.py` file_
+- _Input number and get result_
 
 
 ## Tests
